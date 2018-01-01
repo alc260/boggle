@@ -2,9 +2,6 @@
 Boggle.java
 "ai" to win Boggle
 java Boggle <board filename>
-Created by: Jacob Manning <j.manning@pitt.edu>
-Created on: November 28, 2016
-Last Edited: November 29, 2016
 */
 
 import java.io.*;
